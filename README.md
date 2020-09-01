@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Positioning Elements</title>
+<title>Positioning Elements</title> 
 <style>
 * {
   box-sizing: border-box;
